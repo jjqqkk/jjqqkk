@@ -6,4 +6,10 @@ This build takes advantage of the [VPN](https://developer.chrome.com/extensions/
 
 You can use this browser to surf the Internet securely and privately. All your traffic will be encrypted and sent through anonymous proxy servers.
 
+## Download for Windows 10/8/7
 
+1. Download zip file: [https://github.com/jjqqkk/chromium/releases/download/72.0.3626.96/Chromium-Windows-72.0.3626.96.zip](https://github.com/jjqqkk/chromium/releases/download/72.0.3626.96/Chromium-Windows-72.0.3626.96.zip)
+
+2. Unzip it to your **Desktop**
+
+3. Run **chrome.exe**
