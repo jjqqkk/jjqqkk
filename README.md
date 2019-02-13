@@ -21,3 +21,13 @@ You can use this browser to surf the Internet securely and privately. All your t
 2. Unzip it to your **Desktop**, your will get the Chromium app
 
 3. Press **control** and click on the app icon, and open the app from the menu
+
+## How to upgrade Chromium?
+
+We will follow [Google's release schedule](https://chromiumdash.appspot.com/schedule) and post the binaries on the [releases](https://github.com/jjqqkk/chromium/releases) page.
+
+Users are free to download newer versions. There will be no conflict to having two Chromium on the same computer.
+
+## How to uninstall Chromium?
+
+Simply delete the folder on Windows, or the app on macOS.
