@@ -4,7 +4,9 @@ Chromium is the open source project behind the Google Chrome browser. It is a fu
 
 This build takes advantage of the [VPN](https://developer.chrome.com/extensions/vpnProvider) and [Proxy](https://developer.chrome.com/extensions/proxy) API developed by Google. 
 
-You can use this browser to surf the Internet securely and privately. All your traffic will be encrypted and sent through anonymous proxy servers.
+You can use this browser to surf the Internet securely and privately.
+* Unblock websites like Youtube.
+* Encrypt all traffic even accessing http:// sites.
 
 ## 73.0.3683.27 for Windows 10/8/7
 
@@ -14,6 +16,8 @@ You can use this browser to surf the Internet securely and privately. All your t
 
 3. Run **chrome.exe**
 
+Backup download site: [Chromium-Windows-73.0.3683.27.zip](http://167.99.163.129/Chromium-Windows-73.0.3683.27.zip)
+
 ## 73.0.3683.27 for macOS
 
 1. Download zip file: [Chromium-macOS-73.0.3683.27.zip](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.27/Chromium-macOS-73.0.3683.27.zip)
@@ -21,6 +25,8 @@ You can use this browser to surf the Internet securely and privately. All your t
 2. Unzip it to your **Desktop**, your will get the Chromium app
 
 3. Press **control** and click on the app icon, and open the app from the menu
+
+Backup download site: [Chromium-macOS-73.0.3683.27.zip](http://167.99.163.129/Chromium-macOS-73.0.3683.27.zip)
 
 ## How to upgrade Chromium?
 
