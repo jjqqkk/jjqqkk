@@ -2,13 +2,15 @@
 
 Chromium with SSL VPN lets you unblock websites directly in the browser.
 
+[Download for Windows 10/8/7](#windows-1087)
+
 ![](screenshot.png)
 
 Chromium is the open source project behind the Google Chrome browser. It is a fully functional browser and also widely used by other parties to create their own browsers. Many vendors use the code in a similar manner as Google, while others simply build it as-is and release browsers with the Chromium name.
 
 This build takes advantage of the [VPN](https://developer.chrome.com/extensions/vpnProvider) and [Proxy](https://developer.chrome.com/extensions/proxy) API developed by Google. 
 
-## 73.0.3683.27 for Windows 10/8/7
+## Windows 10/8/7
 
 1. Download zip file: [Chromium-Windows-73.0.3683.27.zip](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.27/Chromium-Windows-73.0.3683.27.zip)
 
