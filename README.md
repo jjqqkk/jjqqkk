@@ -14,23 +14,23 @@ This build takes advantage of the [VPN](https://developer.chrome.com/extensions/
 
 ## Windows 10/8/7
 
-1. Download zip file: [Chromium-Windows-73.0.3683.27.zip](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.27/Chromium-Windows-73.0.3683.27.zip)
+1. Download zip file: [Chromium-Windows-73.0.3683.46.zip](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.46/Chromium-Windows-73.0.3683.46.zip)
 
 2. Unzip it to your **Desktop**
 
 3. Run **chrome.exe**
 
-Backup download site: [Chromium-Windows-73.0.3683.27.zip](http://167.99.163.129/Chromium-Windows-73.0.3683.27.zip)
+Backup download site: [Chromium-Windows-73.0.3683.46.zip](http://167.99.163.129/Chromium-Windows-73.0.3683.46.zip)
 
 ## macOS
 
-1. Download zip file: [Chromium-macOS-73.0.3683.27.zip](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.27/Chromium-macOS-73.0.3683.27.zip)
+1. Download zip file: [Chromium-macOS-73.0.3683.46.zip](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.46/Chromium-macOS-73.0.3683.46.zip)
 
 2. Unzip it to your **Desktop**, your will get the Chromium app
 
 3. Press **control** and click on the app icon, and open the app from the menu
 
-Backup download site: [Chromium-macOS-73.0.3683.27.zip](http://167.99.163.129/Chromium-macOS-73.0.3683.27.zip)
+Backup download site: [Chromium-macOS-73.0.3683.46.zip](http://167.99.163.129/Chromium-macOS-73.0.3683.46.zip)
 
 ## How to upgrade Chromium?
 
