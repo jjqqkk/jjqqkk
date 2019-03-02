@@ -41,3 +41,6 @@ Users are free to download newer versions. There will be no conflict to having t
 ## How to uninstall Chromium?
 
 Simply delete the folder on Windows, or the app on macOS.
+
+## 如何解决Windows版本崩溃？
+[issue #78](https://github.com/jjqqkk/chromium/issues/78) Thanks [leoxxnet](https://github.com/leoxxnet)
