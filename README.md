@@ -1,3 +1,31 @@
+* [English]()
+* [简体中文]()
+
+# Chromium浏览器
+
+直接内置翻墙代理的Google Chromium浏览器。
+
+![](screenshot.png)
+
+最新版本：[73.0.3683.67](https://github.com/jjqqkk/chromium/releases/tag/73.0.3683.67)
+
+## Windows (10/8/7)
+
+[内置VPN版本](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.67/Chromium-windows-73.0.3683.67.zip)
+
+[备用下砸地址]()
+
+[原始版本，可安装插件](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.67/Chromium-windows-novpn.zip)
+
+## Mac
+
+[内置VPN版本](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.67/Chromium-mac-73.0.3683.67.zip)
+
+[备用下砸地址]()
+
+[原始版本，可安装插件](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.67/Chromium-mac-novpn.zip)
+
+
 # Chromium with SSL VPN
 
 Chromium with SSL VPN lets you unblock websites directly in the browser.
