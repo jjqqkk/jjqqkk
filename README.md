@@ -1,5 +1,5 @@
-* [English]()
-* [简体中文]()
+* [English](#chromium-with-ssl-vpn)
+* [简体中文](#chromium浏览器)
 
 # Chromium浏览器
 
