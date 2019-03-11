@@ -13,7 +13,7 @@
 
 [内置VPN版本](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.67/Chromium-windows-73.0.3683.67.zip)
 
-[备用下载地址]()
+[备用下载地址](http://167.99.163.129/Chromium-windows-73.0.3683.67.zip)
 
 [原始版本，可安装插件](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.67/Chromium-windows-novpn.zip)
 
@@ -25,7 +25,7 @@
 
 [内置VPN版本](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.67/Chromium-mac-73.0.3683.67.zip)
 
-[备用下载地址]()
+[备用下载地址](http://167.99.163.129/Chromium-mac-73.0.3683.67.zip)
 
 [原始版本，可安装插件](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.67/Chromium-mac-novpn.zip)
 
@@ -57,7 +57,7 @@ This build takes advantage of the [VPN](https://developer.chrome.com/extensions/
 
 [Built-in VPN](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.67/Chromium-windows-73.0.3683.67.zip)
 
-[Backup download site]()
+[Backup download site](http://167.99.163.129/Chromium-windows-73.0.3683.67.zip)
 
 [Original Chromium](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.67/Chromium-windows-novpn.zip)
 
@@ -65,7 +65,7 @@ This build takes advantage of the [VPN](https://developer.chrome.com/extensions/
 
 [Built-in VPN](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.67/Chromium-mac-73.0.3683.67.zip)
 
-[Backup download site]()
+[Backup download site](http://167.99.163.129/Chromium-mac-73.0.3683.67.zip)
 
 [Original Chromium](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.67/Chromium-mac-novpn.zip)
 
