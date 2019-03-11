@@ -9,7 +9,7 @@
 
 最新版本：[73.0.3683.67](https://github.com/jjqqkk/chromium/releases/tag/73.0.3683.67)
 
-Chromium是Google Chrome浏览器的开源版本，两者共享大部分代码。新的开发和改进先通过Chromium项目完成，大约通过6周测试后再由Google官方发布，因此Chromium是Chrome先行版本。
+[Chromium](https://github.com/chromium/chromium)是Google Chrome浏览器的开源版本，两者共享大部分代码。新的开发和改进先通过Chromium项目完成，大约通过6周测试后再由Google官方发布，因此Chromium是Chrome先行版本。
 
 ## Windows (10/8/7)
 
