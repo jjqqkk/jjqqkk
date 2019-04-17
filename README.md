@@ -13,7 +13,7 @@
 
 ## Windows (10/8/7)
 
-[下载地址](https://github.com/jjqqkk/chromium/releases/download/75.0.3759.4/Chromium-windows-75.0.3759.4.zip)
+[下载Windows版](https://github.com/jjqqkk/chromium/releases/download/75.0.3759.4/Chromium-windows-75.0.3759.4.zip)
 
 [备用下载地址](http://167.99.163.129/Chromium-windows-75.0.3759.4.zip)
 
@@ -23,7 +23,7 @@
 
 ## macOS
 
-[下载地址](https://github.com/jjqqkk/chromium/releases/download/75.0.3759.4/Chromium-mac-75.0.3759.4.zip)
+[下载macOS版](https://github.com/jjqqkk/chromium/releases/download/75.0.3759.4/Chromium-mac-75.0.3759.4.zip)
 
 [备用下载地址](http://167.99.163.129/Chromium-mac-75.0.3759.4.zip)
 
