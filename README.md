@@ -7,29 +7,25 @@
 
 ![](screenshot.png)
 
-最新版本：[73.0.3683.67](https://github.com/jjqqkk/chromium/releases/tag/73.0.3683.67)
+最新版本：[75.0.3759.4](https://github.com/jjqqkk/chromium/releases/tag/75.0.3759.4)
 
 [Chromium](https://github.com/chromium/chromium)是Google Chrome浏览器的开源版本，两者共享大部分代码。新的开发和改进先通过Chromium项目完成，大约通过6周测试后再由Google官方发布，因此Chromium是Chrome先行版本。
 
 ## Windows (10/8/7)
 
-[内置VPN版本](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.67/Chromium-windows-73.0.3683.67.zip)
+[下载地址](https://github.com/jjqqkk/chromium/releases/download/75.0.3759.4/Chromium-windows-75.0.3759.4.zip)
 
-[备用下载地址](http://167.99.163.129/Chromium-windows-73.0.3683.67.zip)
-
-[原始版本，可安装插件](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.67/Chromium-windows-novpn.zip)
+[备用下载地址](http://167.99.163.129/Chromium-windows-75.0.3759.4.zip)
 
 ### 使用方法
 
 下载zip文件后解压缩，从解压后目录里运行**chromium.exe**。
 
-## Mac
+## macOS
 
-[内置VPN版本](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.67/Chromium-mac-73.0.3683.67.zip)
+[下载地址](https://github.com/jjqqkk/chromium/releases/download/75.0.3759.4/Chromium-mac-75.0.3759.4.zip)
 
-[备用下载地址](http://167.99.163.129/Chromium-mac-73.0.3683.67.zip)
-
-[原始版本，可安装插件](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.67/Chromium-mac-novpn.zip)
+[备用下载地址](http://167.99.163.129/Chromium-mac-75.0.3759.4.zip)
 
 ### 使用方法
 
@@ -40,16 +36,13 @@
 [issue #78](https://github.com/jjqqkk/chromium/issues/78) Thanks [leoxxnet](https://github.com/leoxxnet)
 
 
-
-
-
 # Chromium with SSL VPN
 
 Chromium with SSL VPN lets you unblock websites directly in the browser.
 
 ![](screenshot.png)
 
-Latest version: [73.0.3683.67](https://github.com/jjqqkk/chromium/releases/tag/73.0.3683.67)
+Latest version: [75.0.3759.4](https://github.com/jjqqkk/chromium/releases/tag/75.0.3759.4)
 
 Chromium is the open source project behind the Google Chrome browser. It is a fully functional browser and also widely used by other parties to create their own browsers. Many vendors use the code in a similar manner as Google, while others simply build it as-is and release browsers with the Chromium name.
 
@@ -57,20 +50,15 @@ This build takes advantage of the [VPN](https://developer.chrome.com/extensions/
 
 ## Windows 10/8/7
 
-[Built-in VPN](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.67/Chromium-windows-73.0.3683.67.zip)
+[Download Chromium for Windows](https://github.com/jjqqkk/chromium/releases/download/75.0.3759.4/Chromium-windows-75.0.3759.4.zip)
 
-[Backup download site](http://167.99.163.129/Chromium-windows-73.0.3683.67.zip)
-
-[Original Chromium](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.67/Chromium-windows-novpn.zip)
+[Backup download site](http://167.99.163.129/Chromium-windows-75.0.3759.4.zip)
 
 ## macOS
 
-[Built-in VPN](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.67/Chromium-mac-73.0.3683.67.zip)
+[Download Chromium for macOS](https://github.com/jjqqkk/chromium/releases/download/75.0.3759.4/Chromium-mac-75.0.3759.4.zip)
 
-[Backup download site](http://167.99.163.129/Chromium-mac-73.0.3683.67.zip)
-
-[Original Chromium](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.67/Chromium-mac-novpn.zip)
-
+[Backup download site](http://167.99.163.129/Chromium-mac-75.0.3759.4.zip)
 
 ## How to upgrade Chromium?
 
