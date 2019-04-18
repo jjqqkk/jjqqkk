@@ -2,9 +2,9 @@
     "chromium": {
         "version": "73.0.3683.67",
         "darwin": "http://167.99.163.129/Chromium-mac-73.0.3683.67.zip",
-        "windows":"https://github.com/jjqqkk/chromium/releases/download/73.0.3683.67/Chromium-windows-73.0.3683.67.zip"
+        "windows":"http://167.99.163.129/Chromium-windows-73.0.3683.67.zip"
     },
     "jjqqkk": {
-        "version": 1
+        "version": 0
     }
 }
