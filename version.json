@@ -1,8 +1,8 @@
 {
     "chromium": {
-        "version": "75.0.3759.4",
-        "darwin": "http://167.99.163.129/Chromium-mac-75.0.3759.4.zip",
-        "windows":"http://167.99.163.129/Chromium-windows-75.0.3759.4.zip"
+        "version": "75.0.3766.2",
+        "darwin": "http://167.99.163.129/Chromium-mac-75.0.3766.2.zip",
+        "windows":"http://167.99.163.129/Chromium-windows-75.0.3766.2.zip"
     },
     "jjqqkk": {
         "version": 0
