@@ -5,6 +5,8 @@
         "windows":"http://167.99.163.129/Chromium-windows-75.0.3766.2.zip"
     },
     "jjqqkk": {
-        "version": 1
+        "version": 1,
+        "darwin": "http://167.99.163.129/JJQQKK-1.1.0.pkg",
+        "windows": ""
     }
 }
