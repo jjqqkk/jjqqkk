@@ -22,11 +22,11 @@ JJQQKK安装器能加速下载最新版Chromium，推荐所有用户使用JJQQKK
 
 Windows用户下载msi安装包，安装之后双击图标启动JJQQKK，随后通过任务栏小图标打开浏览器。
 
-![](windows-icon.png)
+![](images/windows-icon.png)
 
 macOS用户下载pkg安装包，按住Command键，点击pkg文件，从菜单里选择打开，完成安装。安装之后，从屏幕顶端的任务栏使用JJQQKK。
 
-![](mac-icon.png)
+![](images/mac-icon.png)
 
 ### 手工下载
 
@@ -56,5 +56,7 @@ Windows版本Chromium默认使用32位编译，完美支持所有32位和64位�
 
 目前是完全免费，不需要注册账号，不需要签到，可以一直使用。
 
+## 拍照分享
 
+![](images/readme.png)
 
