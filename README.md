@@ -1,3 +1,4 @@
+[English](README_en.md)
 
 # 直接科学上网的Chromium浏览器
 
@@ -20,9 +21,13 @@ JJQQKK安装器能加速下载最新版Chromium，推荐所有用户使用JJQQKK
 
 ### 使用方法
 
-Windows用户下载msi安装包，安装之后双击图标启动JJQQKK，随后通过任务栏小图标打开浏览器。
+#### Windows
+
+下载msi安装包，安装之后双击图标启动JJQQKK，随后通过任务栏小图标打开浏览器。
 
 ![](images/windows-icon.png)
+
+#### macOS
 
 macOS用户下载pkg安装包，按住Command键，点击pkg文件，从菜单里选择打开，完成安装。安装之后，从屏幕顶端的任务栏使用JJQQKK。
 
@@ -36,7 +41,8 @@ Windows用户，从解压缩之后的目录里找到**chromium.exe**，双击启
 
 macOS用户，解压缩之后直接得到Chromium.app，双击启动。
 
-手工安装的浏览器无法自动更新。推荐使用JJQQKK安装器管理Chromium。
+手工安装的浏览器无法自动更新，需要人工检查新版本。建议使用JJQQKK管理Chromium。
+
 
 ## 常见问题
 
