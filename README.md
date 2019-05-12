@@ -1,6 +1,8 @@
 [English](README_en.md)
 
-# 直接科学上网的Chromium浏览器
+# 科学上网安装器
+
+用JJQQKK安装科学上网版Google Chromium浏览器。
 
 Chromium浏览器直接从Google源代码编译，保持原汁原味的Chrome使用体验，同时启用了浏览器内置的代理组件，让用户不需要安装任何第三方软件，直接
 通过浏览器访问全球站点。
