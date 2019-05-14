@@ -1,8 +1,8 @@
 {
     "chromium": {
-        "version": "76.0.3783.0",
-        "darwin": "http://167.99.163.129/Chromium-mac-76.0.3783.0.zip",
-        "windows": "http://167.99.163.129/Chromium-windows-76.0.3783.0.zip"
+        "version": "76.0.3788.1",
+        "darwin": "http://167.99.163.129/Chromium-mac-76.0.3788.1.zip",
+        "windows": "http://167.99.163.129/Chromium-windows-76.0.3788.1.zip"
     },
     "jjqqkk": {
         "version": 1,
@@ -15,8 +15,8 @@
             "installer": "https://github.com/jjqqkk/chromium/releases/download/75.0.3770.15/JJQQKK-1.0.0.pkg"
         },
         "chromium": {
-            "version": "76.0.3783.0",
-            "zip": "http://167.99.163.129/Chromium-mac-76.0.3783.0.zip"
+            "version": "76.0.3788.1",
+            "zip": "http://167.99.163.129/Chromium-mac-76.0.3788.1.zip"
         }
     },
     "windows": {
@@ -25,8 +25,8 @@
             "installer": "https://github.com/jjqqkk/chromium/releases/download/75.0.3770.15/JJQQKK-1.0.0.msi"
         },
         "chromium": {
-            "version": "76.0.3783.0",
-            "zip": "http://167.99.163.129/Chromium-windows-76.0.3783.0.zip"
+            "version": "76.0.3788.1",
+            "zip": "http://167.99.163.129/Chromium-windows-76.0.3788.1.zip"
         }
     }
 }
