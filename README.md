@@ -1,47 +1,36 @@
 [English](README_en.md)
 
-# 科学上网Chromium浏览器
+# JJQQKK上网助手
 
-Chromium浏览器直接从Google源代码编译，保持原汁原味的Chrome使用体验，同时启用了浏览器内置的代理组件，让用户不需要安装任何第三方软件，直接
-通过浏览器访问全球站点。
+JJQQKK上网助手让Windows和macOS桌面电脑用户自动获得科学上网工具，包括：
+
+* 内置科学上网的Google Chromium浏览器 
+* 启动全网加速模式，加密所有网络活动（仅支持macOS，Windows版本将尽快推出）
+
+
+
+## 下载JJQQKK
+
+[Windows安装包](http://206.189.78.230/JJQQKK-2.0.0.msi)
+
+[macOS安装包](http://206.189.78.230/JJQQKK-2.0.0.pkg)
+
+Windows用户安装msi之后手工启动JJQQKK，从桌面右下角图标启动浏览器。
+
+![](images/windows-icon.png)
+
+macOS用户安装pkg之后，系统自动运行JJQQKK，通过顶端任务栏图标使用JJQQKK。
+
+![](images/mac-icon.png)
+
+
+## 关于Chromium浏览器
 
 Chromium是Google為發展自家的瀏覽器Google Chrome而開啟的計畫，以BSD授權條款等數種授權發行並開放原始碼。Chromium与Google Chrome共享大部分程式碼和功能，但功能和商標之間有一些細微差別。
 
 Chromium的更新速度很快，每隔數小時即有新的開發版本發佈，每次的更新幅度不一定相同，可能增加新功能，或者單純修正問題，由於新功能會先在Chromium上測試，等待認證後才會應用在Google Chrome上，所以Chromium相當於Google Chrome的先行版。
 
-## 获取Chromium
-
-### 通过JJQQKK安装器下载Chromium
-
-JJQQKK安装器能加速下载最新版Chromium，推荐所有用户使用JJQQKK安装器。支持Windows和macOS。
-
-[Windows安装包](http://167.99.163.129/JJQQKK-1.0.0.msi)
-
-[macOS安装包](http://167.99.163.129/JJQQKK-1.0.0.pkg)
-
-### 使用方法
-
-#### Windows
-
-下载msi安装包，安装之后双击图标启动JJQQKK，随后通过任务栏小图标打开浏览器。
-
-![](images/windows-icon.png)
-
-#### macOS
-
-macOS用户下载pkg安装包，按住Command键，点击pkg文件，从菜单里选择打开，完成安装。安装之后，从屏幕顶端的任务栏使用JJQQKK。
-
-![](images/mac-icon.png)
-
-### 手工下载
-
-从[Release页面](https://github.com/jjqqkk/chromium/releases)手工下载浏览器zip压缩包，解压缩之后可以直接使用。
-
-Windows用户，从解压缩之后的目录里找到**chromium.exe**，双击启动。
-
-macOS用户，解压缩之后直接得到Chromium.app，双击启动。
-
-手工安装的浏览器无法自动更新，需要人工检查新版本。建议使用JJQQKK管理Chromium。
+如需手工下载Chromium，请从[Releases页面](https://github.com/jjqqkk/chromium/releases)下载最新版本。旧版本可能无法正常使用科学上网。
 
 
 ## 常见问题

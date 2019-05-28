@@ -5,14 +5,14 @@
         "windows": "http://167.99.163.129/Chromium-windows-76.0.3788.1.zip"
     },
     "jjqqkk": {
-        "version": 1,
-        "darwin": "https://github.com/jjqqkk/chromium/releases/download/75.0.3770.15/JJQQKK-1.0.0.pkg",
-        "windows": "https://github.com/jjqqkk/chromium/releases/download/75.0.3770.15/JJQQKK-1.0.0.msi"
+        "version": 2,
+        "darwin": "http://206.189.78.230/JJQQKK-2.0.0.pkg",
+        "windows": "http://206.189.78.230/JJQQKK-2.0.0.msi"
     },
     "darwin": {
         "jjqqkk": {
-            "version": 1,
-            "installer": "http://167.99.163.129/JJQQKK-1.1.0.pkg"
+            "version": 2,
+            "installer": "http://206.189.78.230/JJQQKK-2.0.0.pkg"
         },
         "chromium": {
             "version": "76.0.3788.1",
@@ -21,8 +21,8 @@
     },
     "windows": {
         "jjqqkk": {
-            "version": 1,
-            "installer": "http://167.99.163.129/JJQQKK.msi"
+            "version": 2,
+            "installer": "http://206.189.78.230/JJQQKK-2.0.0.msi"
         },
         "chromium": {
             "version": "76.0.3788.1",
