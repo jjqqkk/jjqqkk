@@ -11,12 +11,12 @@
     },
     "darwin": {
         "jjqqkk": {
-            "version": 2,
-            "installer": "http://206.189.78.230/JJQQKK-2.0.0.pkg"
+            "version": 3,
+            "installer": "http://206.189.78.230/JJQQKK-2.1.0.pkg"
         },
         "chromium": {
-            "version": "76.0.3806.1",
-            "zip": "http://192.154.103.186/Chromium-mac-76.0.3806.1.zip"
+            "version": "76.0.3809.12",
+            "zip": "http://192.154.103.186/Chromium-mac-76.0.3809.12.zip"
         }
     },
     "windows": {

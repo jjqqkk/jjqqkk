@@ -10,15 +10,25 @@ JJQQKK is a utility program designed for Windows and macOS users. It lets users:
 
 ## Download JJQQKK
 
-[Windows Installer](http://206.189.78.230/JJQQKK-2.0.0.msi)
+### Windows
 
-[macOS Installer](http://206.189.78.230/JJQQKK-2.0.0.pkg)
+[Download](http://206.189.78.230/JJQQKK-2.0.0.msi)
+
+[Backup Download](http://206.189.78.230/JJQQKK-2.0.0.msi)
 
 On Windows, use JJQQKK from the system notification icon.
 
 ![](images/windows-icon.png)
 
-on macOS, use JJQQKK from the task bar on the top.
+
+### macOS
+
+[Download](http://206.189.78.230/JJQQKK-2.1.0.pkg)
+
+[Backup Download](https://github.com/jjqqkk/chromium/releases/download/76.0.3809.12/JJQQKK-2.1.0.pkg)
+
+
+On macOS, use JJQQKK from the task bar on the top.
 
 ![](images/mac-icon.png)
 
