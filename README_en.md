@@ -1,34 +1,55 @@
 
 [简体中文](README.md)
 
-# JJQQKK Online Helper
+# JJQQKK VPN
 
-JJQQKK is a utility program designed for Windows and macOS users. It lets users:
+JJQQKK VPN is designed for desktop Windows and macOS users.
 
-* Get the latest Google Chromium browser with built-in SSL VPN
-* Start native VPN on macOS (The Windows version will come soon)
+It integrates two techniques, both of which can help users unblock websites and bypass firewalls:
+
+- VPN (Virtual Private Network)
+- Chromium browser built with VPN proxy
+
+JJQQKK runs on Windows and macOS. System requirements:
+
+- Windows 10/8/7 (32/64 bits)
+- macOS 10.12 and later
+
 
 ## Download JJQQKK
 
 ### Windows
 
-[Download](http://206.189.78.230/JJQQKK-2.0.0.msi)
+[Download Link #1](http://206.189.78.230/JJQQKK-2.2.0.msi)
 
-[Backup Download](http://206.189.78.230/JJQQKK-2.0.0.msi)
+[Download Link #2](https://github.com/jjqqkk/chromium/releases/download/77.0.3824.6/JJQQKK-2.2.0.msi)
 
-On Windows, use JJQQKK from the system notification icon.
+Run the **msi** installer program, follow all the steps with the default settings and finish the installation.
 
-![](images/windows-icon.png)
+When JJQQKK is launched for the first time, it will install the OpenVPN network card driver. Install the driver with its default settings.
+
+![](images/windows-install-driver.png)
+
+JJQQKK will download the latest Chromium automatically.
+
+![](images/windows-getting-chrome.png)
+
+Start VPN or open Chromium with the icon in the system 
+notification area.
+
+![](images/windows-tray.png)
+
 
 
 ### macOS
 
-[Download](http://206.189.78.230/JJQQKK-2.1.0.pkg)
+[Download Link #1](http://206.189.78.230/JJQQKK-2.2.0.pkg)
 
-[Backup Download](https://github.com/jjqqkk/chromium/releases/download/76.0.3809.12/JJQQKK-2.1.0.pkg)
+[Download Link #2](https://github.com/jjqqkk/chromium/releases/download/77.0.3824.6/JJQQKK-2.2.0.pkg)
 
+Run the pkg installer. It will install JJQQKK and start it automatically.
 
-On macOS, use JJQQKK from the task bar on the top.
+Start VPN or open Chromium from the drop down menu on the top bar.
 
 ![](images/mac-icon.png)
 
