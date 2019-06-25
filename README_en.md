@@ -63,7 +63,7 @@ If you would like to install Chromium manually, get the latest version from the 
 
 ## Contact
 
-Email: jjjqqqkkk@gmx.com
+Email: hi@jjqqkk.icu
 
 ## Share
 

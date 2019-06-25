@@ -76,7 +76,7 @@ Windows版本Chromium默认使用32位编译，完美支持所有32位和64位�
 
 ## 避免失联
 
-电邮：jjjqqqkkk@gmx.com
+电邮：hi@jjqqkk.icu
 
 可通过电邮获得最新软件下载地址。
 
