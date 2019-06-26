@@ -19,9 +19,9 @@ JJQQKK支持Windows和macOS。
 
 ### Windows安装包
 
-[下载地址一](http://206.189.78.230/JJQQKK-2.2.0.msi)
+[下载地址一](http://206.189.78.230/JJQQKK-2.3.0.msi)
 
-[下载地址二](https://github.com/jjqqkk/chromium/releases/download/77.0.3824.6/JJQQKK-2.2.0.msi)
+[下载地址二](https://github.com/jjqqkk/chromium/releases/download/77.0.3824.6/JJQQKK-2.3.0.msi)
 
 运行msi安装程序，安装之后双击桌面图标，启动程序。
 
