@@ -43,9 +43,9 @@ notification area.
 
 ### macOS
 
-[Download Link #1](http://206.189.78.230/JJQQKK-2.2.0.pkg)
+[Download Link #1](http://206.189.78.230/JJQQKK-2.3.0.pkg)
 
-[Download Link #2](https://github.com/jjqqkk/chromium/releases/download/77.0.3824.6/JJQQKK-2.2.0.pkg)
+[Download Link #2](https://github.com/jjqqkk/chromium/releases/download/77.0.3824.6/JJQQKK-2.3.0.pkg)
 
 Run the pkg installer. It will install JJQQKK and start it automatically.
 
