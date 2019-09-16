@@ -19,9 +19,9 @@ JJQQKK支持Windows和macOS。
 
 ### Windows安装包
 
-[下载地址一](http://138.68.29.7/JJQQKK-2.4.0.msi)
+[下载地址一](http://138.68.29.7/JJQQKK-2.5.0.msi)
 
-[下载地址二](https://github.com/jjqqkk/chromium/releases/download/77.0.3833.0/JJQQKK-2.4.0.msi)
+[下载地址二](https://github.com/jjqqkk/chromium/releases/download/78.0.3902.4/JJQQKK-2.5.0.msi)
 
 运行msi安装程序，安装之后双击桌面图标，启动程序。
 
@@ -40,9 +40,9 @@ JJQQKK每次启动时会自动下载最新版Chromium浏览器。
 
 ### macOS安装包
 
-[下载地址一](http://138.68.29.7/JJQQKK-2.4.0.pkg)
+[下载地址一](http://138.68.29.7/JJQQKK-2.5.0.pkg)
 
-[下载地址二](https://github.com/jjqqkk/chromium/releases/download/77.0.3833.0/JJQQKK-2.4.0.pkg)
+[下载地址二](https://github.com/jjqqkk/chromium/releases/download/78.0.3902.4/JJQQKK-2.5.0.pkg)
 
 
 macOS用户安装pkg之后，系统自动运行JJQQKK，通过顶端任务栏图标使用JJQQKK。
