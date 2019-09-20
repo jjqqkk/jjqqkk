@@ -20,9 +20,9 @@ JJQQKK runs on Windows and macOS. System requirements:
 
 ### Windows
 
-[Download Link #1](http://138.68.29.7/JJQQKK-2.5.0.msi)
+[Download Link #1](http://138.68.29.7/JJQQKK-2.5.1.msi)
 
-[Download Link #2](https://github.com/jjqqkk/chromium/releases/download/78.0.3902.4/JJQQKK-2.5.0.msi)
+[Download Link #2](https://github.com/jjqqkk/chromium/releases/download/78.0.3904.9/JJQQKK-2.5.1.msi)
 
 Run the **msi** installer program, follow all the steps with the default settings and finish the installation.
 
@@ -43,9 +43,9 @@ notification area.
 
 ### macOS
 
-[Download Link #1](http://138.68.29.7/JJQQKK-2.5.0.pkg)
+[Download Link #1](http://138.68.29.7/JJQQKK-2.5.1.pkg)
 
-[Download Link #2](https://github.com/jjqqkk/chromium/releases/download/78.0.3902.4/JJQQKK-2.5.0.pkg)
+[Download Link #2](https://github.com/jjqqkk/chromium/releases/download/78.0.3904.9/JJQQKK-2.5.1.pkg)
 
 Run the pkg installer. It will install JJQQKK and start it automatically.
 
