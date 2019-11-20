@@ -40,9 +40,9 @@ JJQQKK每次启动时会自动下载最新版Chromium浏览器。
 
 ### macOS安装包
 
-[下载地址一](http://5.1.70.143/JJQQKK-2.6.3.pkg)
+[下载地址一](http://5.1.70.143/JJQQKK-2.6.4.pkg)
 
-[下载地址二](https://github.com/jjqqkk/chromium/releases/download/80.0.3964.0/JJQQKK-2.6.3.pkg)
+[下载地址二](https://github.com/jjqqkk/chromium/releases/download/80.0.3964.0/JJQQKK-2.6.4.pkg)
 
 
 macOS用户安装pkg之后，系统自动运行JJQQKK，通过顶端任务栏图标使用JJQQKK。
