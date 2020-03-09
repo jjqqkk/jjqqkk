@@ -22,7 +22,7 @@ JJQQKK runs on Windows and macOS. System requirements:
 
 [Download Link #1](http://5.1.70.143/JJQQKK-2.6.7.msi)
 
-[Download Link #2](https://github.com/jjqqkk/chromium/releases/download/80.0.3983.2/JJQQKK-2.6.7.msi)
+[Download Link #2](https://github.com/jjqqkk/jjqqkk/releases/download/v2.6.7/JJQQKK-2.6.7.msi)
 
 Run the **msi** installer program, follow all the steps with the default settings and finish the installation.
 
@@ -45,7 +45,7 @@ notification area.
 
 [Download Link #1](http://5.1.70.143/JJQQKK-2.6.7.pkg)
 
-[Download Link #2](https://github.com/jjqqkk/chromium/releases/download/80.0.3983.2/JJQQKK-2.6.7.pkg)
+[Download Link #2](https://github.com/jjqqkk/jjqqkk/releases/download/v2.6.7/JJQQKK-2.6.7.pkg)
 
 Run the pkg installer. It will install JJQQKK and start it automatically.
 
@@ -53,13 +53,6 @@ Start VPN or open Chromium from the drop down menu on the top bar.
 
 ![](images/mac-icon.png)
 
-## About Chromium
-
-Chromium is Google's open-source web browser project. It is a fully functional browser on its own and supplies the vast majority of code for the Google Chrome browser.
-
-The Chromium code is also widely used by other parties to create their own browsers. Many vendors use the code in a similar manner as Google, while others simply build it as-is and release browsers with the Chromium name.
-
-If you would like to install Chromium manually, get the latest version from the [Releases page](https://github.com/jjqqkk/chromium/releases).
 
 ## Contact
 

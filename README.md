@@ -21,7 +21,7 @@ JJQQKK支持Windows和macOS。
 
 [下载地址一](http://5.1.70.143/JJQQKK-2.6.7.msi)
 
-[下载地址二](https://github.com/jjqqkk/chromium/releases/download/80.0.3983.2/JJQQKK-2.6.7.msi)
+[下载地址二](https://github.com/jjqqkk/jjqqkk/releases/download/v2.6.7/JJQQKK-2.6.7.msi)
 
 运行msi安装程序，安装之后双击桌面图标，启动程序。
 
@@ -42,21 +42,13 @@ JJQQKK每次启动时会自动下载最新版Chromium浏览器。
 
 [下载地址一](http://5.1.70.143/JJQQKK-2.6.7.pkg)
 
-[下载地址二](https://github.com/jjqqkk/chromium/releases/download/80.0.3983.2/JJQQKK-2.6.7.pkg)
+[下载地址二](https://github.com/jjqqkk/jjqqkk/releases/download/v2.6.7/JJQQKK-2.6.7.pkg)
 
 
 macOS用户安装pkg之后，系统自动运行JJQQKK，通过顶端任务栏图标使用JJQQKK。
 
 ![](images/mac-icon.png)
 
-
-## 关于Chromium浏览器
-
-Chromium是Google為發展自家的瀏覽器Google Chrome而開啟的計畫，以BSD授權條款等數種授權發行並開放原始碼。Chromium与Google Chrome共享大部分程式碼和功能，但功能和商標之間有一些細微差別。
-
-Chromium的更新速度很快，每隔數小時即有新的開發版本發佈，每次的更新幅度不一定相同，可能增加新功能，或者單純修正問題，由於新功能會先在Chromium上測試，等待認證後才會應用在Google Chrome上，所以Chromium相當於Google Chrome的先行版。
-
-如需手工下载Chromium，请从[Releases页面](https://github.com/jjqqkk/chromium/releases)下载最新版本。旧版本可能无法正常使用科学上网。
 
 
 ## 常见问题
@@ -84,4 +76,3 @@ Windows版本Chromium默认使用32位编译，完美支持所有32位和64位�
 ## 拍照分享
 
 ![](images/readme.png)
-
