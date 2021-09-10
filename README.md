@@ -3,6 +3,7 @@
 最新版: [2.8.6](https://github.com/jjqqkk/jjqqkk/releases/tag/v2.8.6)
 
 Windows安装包：[JJQQKK-2.8.6.msi](http://5.2.73.112/JJQQKK-2.8.6.msi)
+
 macOS安装包：[JJQQKK-2.8.6.pkg](http://5.2.73.112/JJQQKK-2.8.6.pkg)
 
 # JJQQKK是浏览器内运行的VPN客户端
