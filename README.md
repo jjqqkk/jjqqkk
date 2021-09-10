@@ -45,3 +45,17 @@ Windows版本安装包自带OpenVPN驱动程序。
 **无论首次安装还是后续升级，请选择安装OpenVPN驱动。**
 
 ![](images/windows-install-driver.png)
+
+## 独立版本Windows VPN
+
+如需要独立版Windows VPN，可以从微软Store里直接下载"VPN Plus"。
+
+下载地址：[VPN Plus](https://www.microsoft.com/store/apps/9PL39GSVGCGS)
+
+## 独立版本macOS VPN
+
+如需要独立版macOS VPN，可以从App Store里直接下载"VPN Plus"。
+
+下载地址：[VPN Plus](https://apps.apple.com/app/id1202726435)
+
+由于苹果公司政策限制，独立版本VPN不支持中国地区Apple ID用户。
