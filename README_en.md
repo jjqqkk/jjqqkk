@@ -1,63 +1,51 @@
 
-[简体中文](README.md)
+[Simplifed Chinese](README.md)
 
-# JJQQKK VPN
+Latest version: [2.8.6](https://github.com/jjqqkk/jjqqkk/releases/tag/v2.8.6)
 
-JJQQKK VPN is designed for desktop Windows and macOS users.
+Windows Installer：[JJQQKK-2.8.6.msi](http://5.2.73.112/JJQQKK-2.8.6.msi)
 
-It integrates two techniques, both of which can help users unblock websites and bypass firewalls:
+macOS Installer：[JJQQKK-2.8.6.pkg](http://5.2.73.112/JJQQKK-2.8.6.pkg)
 
-- VPN (Virtual Private Network)
-- Chromium browser built with VPN proxy
+# JJQQKK is a Web Based VPN Client
 
-JJQQKK runs on Windows and macOS. System requirements:
+JJQQKK is a VPN client that works in browser. It works as Youtube video downloader as well.
 
-- Windows 10/8/7 (32/64 bits)
-- macOS 10.12 and later
+JJQQKK runs on Windows and macOS.
+
+![JJQQKK Web Interface](images/jjqqkk.png)
+
+## Ad-free Youtube Downloader
+
+Use JJQQKK as a basic Youtube downloader. 
+
+Simply paste Youtube URL to JJQQKK, and the video can be played online, without ads. 
+
+Download link is also provided. 
+
+![Download Video JJQQKK](images/jjqqkk-video-download.png)
+
+If a video cannot be played due to copyright restriction, the player will stay 
+in the loading state. Refresh the JJQQKK web page in the browser to restore the player.
 
 
-## Download JJQQKK
+## OpenVPN Driver Must be Installed for Windows Users
 
-### Windows
+JJQQKK Windows installer embeds the OpenVPN driver, and 
+during the installation process, it will ask users to install the driver.
 
-[Download link 1](http://185.44.107.177/28.msi)
-
-[Download link 2](http://5.1.70.141/28.msi)
-
-Run the **msi** installer program, follow all the steps with the default settings and finish the installation.
-
-When JJQQKK is launched for the first time, it will install the OpenVPN network card driver. Install the driver with its default settings.
+**Do not skip installing this driver. Otherwise VPN won't be working.**
 
 ![](images/windows-install-driver.png)
 
-JJQQKK will download the latest Chromium automatically.
+## Standalone Windows VPN
 
-![](images/windows-getting-chrome.png)
+Get the standalone VPN app "VPN Plus" from Microsoft Store.
 
-Start VPN or open Chromium with the icon in the system 
-notification area.
+Download：[VPN Plus](https://www.microsoft.com/store/apps/9PL39GSVGCGS)
 
-![](images/windows-tray.png)
+## Standalone macOS VPN
 
+Get the standalone VPN app "VPN Plus" from macOS App Store.
 
-### macOS
-
-[Download link 1](http://185.44.107.177/28.pkg)
-
-[Download link 2](http://5.1.70.141/28.pkg)
-
-Run the pkg installer. It will install JJQQKK and start it automatically.
-
-Start VPN or open Chromium from the drop down menu on the top bar.
-
-![](images/mac-icon.png)
-
-
-## Contact
-
-Email: hi@jjqqkk.icu
-
-## Share
-
-![](images/readme.png)
-
+Download：[VPN Plus](https://apps.apple.com/app/id1202726435)
